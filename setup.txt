@@ -1,0 +1,7 @@
+First run this command : pip install -r requirements.txt 
+
+Open the anaconda prompt : pushd C:\Users\ADMIN\Desktop\Emotion-detection\Emotion-detection
+
+for go to src file : cd src
+
+run the file : python emotions.py --mode display
